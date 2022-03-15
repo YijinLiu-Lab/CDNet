@@ -1,0 +1,14 @@
+numpy
+scipy
+os
+glob
+argparse
+math
+scikit-image
+tensorflow>=1.15.0
+keras
+opencv-python
+h5py
+dxchange
+tqdm
+IPython[all]
