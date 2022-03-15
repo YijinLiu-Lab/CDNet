@@ -37,6 +37,7 @@ The network structure is shown in the figure below:
 2.Install dependencies and current repo
 ```
 pip install -r requirements.txt
+```
 
 
 ## Training on your own dataset
