@@ -66,3 +66,9 @@ Use this bibtex to cite this repository:
 
 ## Contributing
 Contributions to this repository are always welcome. Examples of things you can contribute:
+* Accuracy Improvements. A more accurate model based on the shape characteristic is coming.
+* Training on your own data and release the trained models.
+* Visualizations and examples.
+
+## Requirements
+Python 3.7, TensorFlow 1.15, Keras and other common packages listed in `requirements.txt`.
