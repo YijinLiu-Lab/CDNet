@@ -1,6 +1,6 @@
 # CDNet
 
-This repo is the official implementation of ["Deep-learning-enabled crack detection and analysis in commercial lithium-ion battery cathodes"](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202203070). It currently includes code for the following tasks:
+This repo is the official implementation of ["Deep-Learning-Enabled Crack Detection and Analysis in Commercial Lithium-Ion Battery Cathodes"](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202203070). It currently includes code for the following tasks:
 
 ## Abstract
 
@@ -57,7 +57,7 @@ python3 evaluation.py train --evaluation_dataroot=/path/to/data/evaluation/ --mo
 Use this bibtex to cite this repository:
 ```
 @article{jiang_lib_segmentation2020,
-  title={Deep-learning-enabled crack detection and analysis in commercial lithium-ion battery cathodes},
+  title={Deep-Learning-Enabled Crack Detection and Analysis in Commercial Lithium-Ion Battery Cathodes},
   author={Tianyu Fu, Federico Monaco, Jizhou Li, Kai Zhang, Qingxi Yuan, Peter Cloetens, Piero Pianetta, and Yijin Liu},
   journal={Advanced Functional Materials Advanced Functional Materials},
   year={2022},
