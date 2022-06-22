@@ -1,6 +1,6 @@
 # CDNet
 
-This repo is the official implementation of ["Deep-learning-enabled crack detection and analysis in commercial lithium-ion battery cathodes"](https://arxiv.org/pdf/2103.14030.pdf). It currently includes code for the following tasks:
+This repo is the official implementation of ["Deep-learning-enabled crack detection and analysis in commercial lithium-ion battery cathodes"](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202203070). It currently includes code for the following tasks:
 
 ## Abstract
 
