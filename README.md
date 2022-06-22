@@ -48,7 +48,7 @@ Train a new model starting from your own dataset:
 ```
 python3 train.py train --train_dataroot=/path/to/data/train/ --target_dataroot=/path/to/data/target/ --trained_model_path=/path/to/your/model/
 ```
-evaluat a new model starting from your own dataset:
+Evaluat a new model starting from your own dataset:
 ```
 python3 evaluation.py train --evaluation_dataroot=/path/to/data/evaluation/ --model_dataroot=/path/to/your/model/ --out_dataroot=/path/to/your/out/
 ```
