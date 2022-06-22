@@ -1,5 +1,5 @@
 # CDNet
-Deep-learning-enabled crack detection and analysis in commercial lithium-ion battery cathodes 
+Deep-learning-enabled crack detection and analysis in commercial lithium-ion battery cathodes
 
 ## Abstract
 
@@ -57,8 +57,10 @@ Use this bibtex to cite this repository:
 @article{jiang_lib_segmentation2020,
   title={Deep-learning-enabled crack detection and analysis in commercial lithium-ion battery cathodes},
   author={Tianyu Fu, Federico Monaco, Jizhou Li, Kai Zhang, Qingxi Yuan, Peter Cloetens, Piero Pianetta, and Yijin Liu},
-  journal={},
+  journal={Advanced Functional Materials Advanced Functional Materials},
   year={2022},
+  doi={10.1002/adfm.202203638},
+}
 }
 ```
 
